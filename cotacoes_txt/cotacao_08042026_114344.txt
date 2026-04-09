@@ -1,0 +1,13 @@
+RELATÓRIO DE COTAÇÃO RÁPIDA - 3D PRO
+-------------------------------------------
+DATA: 08/04/2026 11:43
+DADOS TÉCNICOS:
+Peso: 10.0g | Tempo Máquina: 1.00h | Tempo Trabalho: 0.25h
+Custo Operacional: R$ 7.23
+
+TABELA DE PREÇOS:
+Markup 2.5x -> R$ 18.07
+Markup 3.0x -> R$ 21.69
+Markup 3.5x -> R$ 25.30
+Markup 4.0x -> R$ 28.92
+Markup 5.0x -> R$ 36.15

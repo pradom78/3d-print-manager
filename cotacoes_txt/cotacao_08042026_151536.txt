@@ -1,0 +1,20 @@
+RELATÓRIO DE COTAÇÃO RÁPIDA - 3D PRO
+-------------------------------------------
+DATA: 08/04/2026 15:15
+
+MODO: Produção em Lote
+Quantidade: 10
+
+Custo Unitário: R$ 1.47
+Custo Total: R$ 14.73
+
+MELHOR ESCOLHA:
+Markup: 5.0x
+Preço: R$ 7.37
+
+TABELA DE PREÇOS:
+2.5x -> Unit: R$ 3.68 | Lote: R$ 36.84 | Lucro: R$ 22.10
+3.0x -> Unit: R$ 4.42 | Lote: R$ 44.20 | Lucro: R$ 29.47
+3.5x -> Unit: R$ 5.16 | Lote: R$ 51.57 | Lucro: R$ 36.84
+4.0x -> Unit: R$ 5.89 | Lote: R$ 58.94 | Lucro: R$ 44.20
+5.0x -> Unit: R$ 7.37 | Lote: R$ 73.67 | Lucro: R$ 58.94

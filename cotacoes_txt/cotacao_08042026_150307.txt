@@ -1,0 +1,16 @@
+RELATÓRIO DE COTAÇÃO RÁPIDA - 3D PRO
+-------------------------------------------
+DATA: 08/04/2026 15:03
+
+MODO: Peça Única
+Quantidade: 1
+
+Custo Unitário: R$ 7.23
+Custo Total: R$ 7.23
+
+TABELA DE PREÇOS:
+2.5x -> Unit: R$ 18.07 | Lote: R$ 18.07
+3.0x -> Unit: R$ 21.69 | Lote: R$ 21.69
+3.5x -> Unit: R$ 25.30 | Lote: R$ 25.30
+4.0x -> Unit: R$ 28.92 | Lote: R$ 28.92
+5.0x -> Unit: R$ 36.15 | Lote: R$ 36.15
